@@ -1,0 +1,9 @@
+************* Module sel_auto_zen_class
+sel_auto_zen_class.py:51:8: W0702: No exception type(s) specified (bare-except)
+sel_auto_zen_class.py:79:17: E0110: Abstract class 'ExcelWriter' with abstract methods instantiated (abstract-class-instantiated)
+sel_auto_zen_class.py:85:19: E1101: Instance of 'ExcelWriter' has no 'book' member (no-member)
+sel_auto_zen_class.py:173:8: W0702: No exception type(s) specified (bare-except)
+
+------------------------------------------------------------------
+Your code has been rated at 8.42/10 (previous run: 0.00/10, +8.42)
+

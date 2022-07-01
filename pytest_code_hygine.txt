@@ -1,0 +1,6 @@
+************* Module test_sel_auto_zen_class
+test_sel_auto_zen_class.py:8:0: W0611: Unused import pytest (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 9.44/10 (previous run: 0.00/10, +9.44)
+
